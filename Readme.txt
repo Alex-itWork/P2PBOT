@@ -4,12 +4,12 @@ Alex Gromov in TG - @Alex_itWork
 
 # Project P2P
 
-One Paragraph of project description goes here
+P2P (person-to-person) 
 
-
-```
-Give examples
-```
+Now users will be able to trade cryptocurrency directly inside Telegram. 
+It remains to set up bridges ( payment gateway ), 
+the exchanger is easy to implement using a third-party APi. 
+I hope I will still find developers who will help set up secure P2P transfers.
 
 ### Installing
 
